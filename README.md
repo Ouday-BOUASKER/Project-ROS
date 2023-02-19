@@ -1,7 +1,6 @@
 # Project-ROS Melodic 
-Ce projet de bureau d'étude a pour objectif de concevoir un robot mobile capable de détecter et d'éviter
-les obstacles grâce à l'utilisation d'un capteur ultrason. Pour cela, nous avons choisi de simuler son environnement
-de travail à l'aide de Gazebo et de RViz, afin de tester efficacement les différentes fonctionnalités du robot.
-Le développement du projet sera réalisé en utilisant le système d'exploitation ROS, qui permettra d'optimiser les performances
-du robot et de faciliter la mise en place des différents capteurs et actionneurs. Le code sera finalement implémenté sur
-une carte Raspberry Pi, qui sera directement connectée au robot pour le rendre autonome.
+In the wake of this final year in the National Engineering School of Tunisia, we were asked to work on a project in which its objective is to developp a mobile robot that is capable of dectecting and avoiding obstacles by using an ultrasonic sensor. 
+
+For this purpose, as described in the project's case of study, in order to simulate its working environment, we had to use Gazebo and RViz in order to effectively test the various functionalities of the robot.
+
+The project development will be carried out using the Robt operating system, which will optimize the performance of the robot and facilitate the setup of the various sensors and actuators. Finally, the code will be implemented on a Raspberry Pi board, which will be directly connected to the robot to make it autonomous.
